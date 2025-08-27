@@ -1,2 +1,10 @@
 # nop-CommerceAutomation
-Detail-oriented QA Automation Engineer with hands-on experience in functional testing of the nopCommerce eCommerce platform. Skilled in designing and implementing robust automated test scripts using Selenium WebDriver and TestNG to validate key user flows such as registration, login, product search, cart management, and checkout. Proficient in identifying functional issues and ensuring seamless user experience through continuous integration and regular regression testing. Strong understanding of eCommerce workflows and committed to delivering high-quality, bug-free applications.
+Project: 
+	Functional Test Automation of nopCommerce Website
+Tools/Tech: 
+	Selenium WebDriver, TestNG, Java, Maven, Git, TestNG Reports
+Description:
+	Designed and implemented automated functional test cases for the nopCommerce eCommerce platform. The project focused on validating core user workflows
+	including user registration, login, product search, add to cart, checkout, and order confirmation. Developed reusable test scripts using the Page Object
+	Model (POM) to enhance maintainability and scalability. Integrated test execution with Maven and generated detailed reports using TestNG. Ensured consistent
+	test coverage and improved regression testing efficiency by automating end-to-end scenarios.
