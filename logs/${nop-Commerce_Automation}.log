@@ -1,0 +1,113 @@
+2025-08-28 21:08:06 [main] INFO  com.TestCases.LoginTest - *** Browser selected as firefox
+2025-08-28 21:08:11 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 21:08:11 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 21:08:11 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 21:08:11 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 21:08:14 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 21:08:14 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 21:08:42 [main] INFO  com.TestCases.LoginTest -  
+2025-08-28 21:08:42 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 21:08:42 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 21:08:45 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 21:08:45 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 21:08:45 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 21:08:46 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 21:08:46 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 21:08:46 [main] ERROR com.TestCases.LoginTest - Login failed
+2025-08-28 21:08:57 [main] INFO  com.TestCases.LoginTest - *** Browser selected as Edge
+2025-08-28 21:09:12 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 21:09:12 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 21:09:12 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 21:09:12 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 21:09:21 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 21:09:21 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 21:11:02 [main] INFO  com.TestCases.LoginTest - *** Browser selected as Edge
+2025-08-28 21:11:05 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 21:11:05 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 21:11:05 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 21:11:05 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 21:11:09 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 21:11:09 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 21:11:10 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 21:11:10 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 21:11:27 [main] INFO  com.TestCases.LoginTest - *** Browser selected as firefox
+2025-08-28 21:11:31 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 21:11:31 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 21:11:31 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 21:11:31 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 21:11:33 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 21:11:33 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 21:11:34 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 21:11:34 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 21:11:53 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 21:11:56 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 21:11:56 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 21:11:56 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 21:11:56 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 21:11:59 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 21:11:59 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 21:12:01 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 21:12:01 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 21:13:27 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 21:13:29 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 21:13:30 [main] ERROR com.TestCases.LoginTest - Title missmatched
+2025-08-28 21:13:30 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 21:13:30 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 21:13:31 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 21:13:31 [main] ERROR com.TestCases.LoginTest - Login failed
+2025-08-28 21:13:32 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 21:13:32 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 21:23:15 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 21:23:18 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 21:23:18 [main] ERROR com.TestCases.LoginTest - Login page title mismatched getting following error :java.lang.AssertionError: expected [nopCommerce demo store. Login] but found [nopCommerce demo store. Logi]
+2025-08-28 21:23:19 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 21:23:19 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 21:23:21 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 21:23:21 [main] ERROR com.TestCases.LoginTest - Login failed
+2025-08-28 21:23:22 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 21:23:22 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 23:07:25 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 23:07:31 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 23:07:31 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 23:07:32 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 23:07:32 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 23:07:33 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 23:07:33 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 23:07:34 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 23:07:34 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 23:09:32 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 23:09:34 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 23:09:35 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 23:09:35 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 23:09:35 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 23:09:36 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 23:09:36 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 23:09:37 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 23:09:37 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 23:10:58 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 23:11:00 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 23:11:00 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 23:11:00 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 23:11:00 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 23:11:02 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 23:11:02 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 23:11:03 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 23:11:03 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 23:14:03 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 23:14:05 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 23:14:05 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 23:14:06 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 23:14:06 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 23:14:07 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 23:14:07 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 23:14:08 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 23:14:08 [main] INFO  com.TestCases.LoginTest - ****************************************************
+2025-08-28 23:14:55 [main] INFO  com.TestCases.LoginTest - *** Browser selected as chrome
+2025-08-28 23:14:58 [main] INFO  com.TestCases.LoginTest - Url enteredhttps://admin-demo.nopcommerce.com/login?ReturnUrl=%2FAdmin
+2025-08-28 23:14:58 [main] INFO  com.TestCases.LoginTest - Login Page tile matched
+2025-08-28 23:14:58 [main] INFO  com.TestCases.LoginTest - User name entered
+2025-08-28 23:14:58 [main] INFO  com.TestCases.LoginTest - User password entered
+2025-08-28 23:15:00 [main] INFO  com.TestCases.LoginTest - Login btn clicked
+2025-08-28 23:15:00 [main] INFO  com.TestCases.LoginTest - Loged in to application
+2025-08-28 23:15:01 [main] INFO  com.TestCases.LoginTest - Browser closed
+2025-08-28 23:15:01 [main] INFO  com.TestCases.LoginTest - ****************************************************
