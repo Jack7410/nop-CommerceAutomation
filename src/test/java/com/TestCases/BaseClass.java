@@ -15,6 +15,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 
+import com.PageObject.LoginPage;
 import com.Utilities.ReadProperties;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -26,6 +27,7 @@ public class BaseClass {
 	
 	WebDriver driver; 
 	ReadProperties readProp;
+	
 	@Parameters("Browser")
 	@BeforeTest
 	
